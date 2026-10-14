@@ -224,4 +224,5 @@ This project contains code from various open source projects:
 - Baileys (MIT License)
 - Other libraries as listed in package.json
 #   t i t a n  
+ #   t i t a n  
  
